@@ -1,0 +1,7 @@
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\bin\Debug\Merge_Sort.exe.config
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\bin\Debug\Merge_Sort.exe
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\bin\Debug\Merge_Sort.pdb
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\obj\Debug\Merge_Sort.csprojAssemblyReference.cache
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\obj\Debug\Merge_Sort.csproj.CoreCompileInputs.cache
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\obj\Debug\Merge_Sort.exe
+E:\Viusal_CS_Projects\Merge_Sort\Merge_Sort\obj\Debug\Merge_Sort.pdb
